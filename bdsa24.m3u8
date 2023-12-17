@@ -230,3 +230,14 @@ https://1rdk.short.gy/Star-Gold-Select/Himel-Op
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B682HS9/FS-n-I0-Xi-Ltc-GZvdz-A6-Yh-LF9n-UW7-F8c6-Tk-K9-YOl-C1lfv-Vyk-FJJxx58ths3-NJ1-Gj-SGDul-h-Pc-s900-c-k.jpg" group-title="Indian Hindi", Star Gold Romance C
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QNgbxZ2/Colors-cineplex.png" group-title="Indian Hindi", Colors Cineplex B
+http://103.141.2.37:25461/live/web/web/547.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QNgbxZ2/Colors-cineplex.png" group-title="Indian Hindi", Colors Cineplex M
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+
+
+
+
+
