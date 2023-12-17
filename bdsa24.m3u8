@@ -235,9 +235,34 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNgbxZ2/Colors-cineplex.png" group-title="Indian Hindi", Colors Cineplex B
 http://103.141.2.37:25461/live/web/web/547.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNgbxZ2/Colors-cineplex.png" group-title="Indian Hindi", Colors Cineplex M
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_131636_eng=131600-video=2089200.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfYRrPk/colorssuperhit462x252.jpg" group-title="Indian Hindi", Colors Cineplex Superhit
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/Rishtey_Cineplex_voot_MOB-audio_98835_eng=98800-video=1173600.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/30bGTjN/andpictures-hd.jpg" group-title="Indian Hindi", & Pictures M
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/30bGTjN/andpictures-hd.jpg" group-title="Indian Hindi", & Pictures
+http://103.141.2.37:25461/live/web/web/543.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/30bGTjN/andpictures-hd.jpg" group-title="Indian Hindi", & Pictures old
 
 
 
 
 
+
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary  HDH
+https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary  HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary  HD
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary  BDIX
+http://103.141.2.37:25461/live/web/web/567.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary Malti 
+https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary FHD 
+http://tv.bdvision.live:8080/live/Sajib96/9601776975773/575.ts
