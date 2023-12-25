@@ -265,6 +265,7 @@ http://103.141.2.37:25461/live/web/web/567.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary Malti 
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="SPORTS", beIN Sports FR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bldcmprod-cdn.toffeelive.com
+#EXTVLCOPT:Cookie:Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703657140:KeyName=prod_linear:Signature=2E99Pb5s-ZQpMvvYC7hcJ3dD8zFBG_FFEk41q5qLyViMRiCfUzpduH1dgzJXza_SSmhMlrP13GYF-ftilPdyCg
+https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_b/playlist.m3u8
