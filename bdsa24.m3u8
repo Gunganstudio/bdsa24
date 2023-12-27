@@ -268,7 +268,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary  HD
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary  BDIX
-http://xtv.ooo:8080/live/001172/753957/206287.m3u8
+https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary Malti 
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="SPORTS", beIN Sports FR 1
