@@ -239,13 +239,16 @@ https://nayeem-parvez.pw/api/bongo.m3u8?id=gaan-bangla
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yWg39Q1/Sony-Max-new.png" group-title="Indian Hindi", Sony Max BP
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-max-hd-live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yWg39Q1/Sony-Max-new.png" group-title="Indian Hindi", Sony Max AY
-https://bdtubelive.000webhostapp.com/ayna.m3u8?id=90
+https://cdn-tv.co.in/sonyliv/watch.php?id=1000009247&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yWg39Q1/Sony-Max-new.png" group-title="Indian Hindi", Sony Max AY
+https://cdn-tv.co.in/sonyliv/watch.php?id=1000009249&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yWg39Q1/Sony-Max-new.png" group-title="Indian Hindi", Sony Max A
 http://103.132.181.118:82/play/a00c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yWg39Q1/Sony-Max-new.png" group-title="Indian Hindi", Sony Max A
 https://its-nayeem.000webhostapp.com/api/premiumnetwork.m3u8?id=90
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yWg39Q1/Sony-Max-new.png" group-title="Indian Hindi", Sony Max C
 https://nayeem-parvez.pw/api/cooltv.m3u8?id=5386
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P9jk5xm/ed15f30d-49fc-4725-b74d-c8851eeefbf1.png" group-title="Indian Hindi", Zee Cinema BP
@@ -307,11 +310,8 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary Malti 
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="SPORTS", beIN Sports FR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bldcmprod-cdn.toffeelive.com
-#EXTVLCOPT:Cookie:Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1703657140:KeyName=prod_linear:Signature=2E99Pb5s-ZQpMvvYC7hcJ3dD8zFBG_FFEk41q5qLyViMRiCfUzpduH1dgzJXza_SSmhMlrP13GYF-ftilPdyCg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_b/playlist.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary Hindi 
+https://mhdtvplay.net/delta/discovery/api/Discovery_Hindi.m3u8
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_410838001703390913.png", Live 1 VIP
