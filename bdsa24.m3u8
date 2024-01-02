@@ -317,8 +317,9 @@ https://mhdtvplay.net/delta/discovery/api/Discovery_Hindi.m3u8
 
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_410838001703390913.png", Live 1 VIP
-https://entezeetv.fun/ayna/play.php?id=94
 #EXTVLCOPT:http-referrer=https://mhdtvplay.net/
+https://entezeetv.fun/ayna/play.php?id=94
+
 
 
 
