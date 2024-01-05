@@ -316,8 +316,6 @@ https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 https://mhdtvplay.net/delta/discovery/api/Discovery_Hindi.m3u8
 
 
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_410838001703390913.png", Live 1 VIP
-https://bdsajib112.000webhostapp.com/api/bas.php?e=.m3u8
-
-
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_410838001703390913.png", Live 1
+https://bdsatv24.000webhostapp.com/api/Ayna.php?id=27
 
