@@ -1,128 +1,72 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png" group-title="BDSAJIB-CricHD", A Sports HD
-https://api.bongohub.pw/playlist/crichd.php?id=asportshd
+https://api.bongohub.pw/playlist/crichd.php?id=asportshd|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png" group-title="BDSAJIB-CricHD", BT Sport 1
-https://api.bongohub.pw/playlist/crichd.php?id=bbtsp1
+https://api.bongohub.pw/playlist/crichd.php?id=bbtsp1|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png" group-title="BDSAJIB-CricHD", BT Sport 2
-https://api.bongohub.pw/playlist/crichd.php?id=bbtsp2
+https://api.bongohub.pw/playlist/crichd.php?id=bbtsp2|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png" group-title="BDSAJIB-CricHD", BT Sport 3
-https://api.bongohub.pw/playlist/crichd.php?id=bbtsp3
+https://api.bongohub.pw/playlist/crichd.php?id=bbtsp3|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png" group-title="BDSAJIB-CricHD", BT Sport 4
-https://api.bongohub.pw/playlist/crichd.php?id=bbtespn
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" group-title="BDSAJIB-CricHD", Bein Sports 1 AR
-https://api.bongohub.pw/playlist/crichd.php?id=bein1arab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpCtMcnz/Bein-Sports-HD-1.png" group-title="BDSAJIB-CricHD", Bein Sports 1 English
-https://api.bongohub.pw/playlist/crichd.php?id=bein1en
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJPp7cgn/Bein-Sports-1-FR.png" group-title="BDSAJIB-CricHD", Bein Sports 1 FR
-https://api.bongohub.pw/playlist/crichd.php?id=bein1fr
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QtbL1zg/Bein-Sports-Premium-1.png" group-title="BDSAJIB-CricHD", Bein Sports 1 Premium
-https://api.bongohub.pw/playlist/crichd.php?id=bein1prem
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" group-title="BDSAJIB-CricHD", Bein Sports 2 AR
-https://api.bongohub.pw/playlist/crichd.php?id=bein2arab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKNJX1cQ/Bein-Sports-HD2.png" group-title="BDSAJIB-CricHD", Bein Sports 2 English
-https://api.bongohub.pw/playlist/crichd.php?id=bein2en
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZYvMCbP/Bein-Sports-2-FR.png" group-title="BDSAJIB-CricHD", Bein Sports 2 FR
-https://api.bongohub.pw/playlist/crichd.php?id=bein2fr
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q2Mps52/Bein-Sports-Premium-2.png" group-title="BDSAJIB-CricHD", Bein Sports 2 Premium
-https://api.bongohub.pw/playlist/crichd.php?id=bein2prem
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" group-title="BDSAJIB-CricHD", Bein Sports 3 AR
-https://api.bongohub.pw/playlist/crichd.php?id=bein3arab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5k6Szhv/Bein-Sports-HD-3.png" group-title="BDSAJIB-CricHD", Bein Sports 3 English
-https://api.bongohub.pw/playlist/crichd.php?id=bein3en
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2VKp41R/Bein-Sports-3-FR.png" group-title="BDSAJIB-CricHD", Bein Sports 3 FR
-https://api.bongohub.pw/playlist/crichd.php?id=bein3fr
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5jrVm9f/Bein-Sports-Premium-3.png" group-title="BDSAJIB-CricHD", Bein Sports 3 Premium
-https://api.bongohub.pw/playlist/crichd.php?id=bein3prem
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" group-title="BDSAJIB-CricHD", Bein Sports 4 AR
-https://api.bongohub.pw/playlist/crichd.php?id=bein4arab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" group-title="BDSAJIB-CricHD", Bein Sports 5 AR
-https://api.bongohub.pw/playlist/crichd.php?id=bein5arab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" group-title="BDSAJIB-CricHD", Bein Sports 6 AR
-https://api.bongohub.pw/playlist/crichd.php?id=bein6arab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" group-title="BDSAJIB-CricHD", Bein Sports 7 AR
-https://api.bongohub.pw/playlist/crichd.php?id=bein7arab
+https://api.bongohub.pw/playlist/crichd.php?id=bbtespn|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8s3JXvH/Eurosport-1.png" group-title="BDSAJIB-CricHD", EuroSport 1
-https://api.bongohub.pw/playlist/crichd.php?id=eurosp1
+https://api.bongohub.pw/playlist/crichd.php?id=eurosp1|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px1LXPbg/Eurosport-2.png" group-title="BDSAJIB-CricHD", EuroSport 2
-https://api.bongohub.pw/playlist/crichd.php?id=eurosp2
+https://api.bongohub.pw/playlist/crichd.php?id=eurosp2|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png" group-title="BDSAJIB-CricHD", Fox Cricket 501 HD
-https://api.bongohub.pw/playlist/crichd.php?id=fox501
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="BDSAJIB-CricHD", Fox Sports 502 HD
-https://api.bongohub.pw/playlist/crichd.php?id=fox5022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="BDSAJIB-CricHD", Fox Sports 503 HD
-https://api.bongohub.pw/playlist/crichd.php?id=fox503
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="BDSAJIB-CricHD", Fox Sports 504 HD
-https://api.bongohub.pw/playlist/crichd.php?id=fox504
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="BDSAJIB-CricHD", Fox Sports 505 HD
-https://api.bongohub.pw/playlist/crichd.php?id=fox505
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" group-title="BDSAJIB-CricHD", Fox Sports 506 HD
-https://api.bongohub.pw/playlist/crichd.php?id=fox506
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png" group-title="BDSAJIB-CricHD", Geo Super
-https://api.bongohub.pw/playlist/crichd.php?id=geosp
+https://api.bongohub.pw/playlist/crichd.php?id=fox501|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkMPrhYx/La-Liga-TV.png" group-title="BDSAJIB-CricHD", LaLiga Tv
-https://api.bongohub.pw/playlist/crichd.php?id=laligauk
+https://api.bongohub.pw/playlist/crichd.php?id=laligauk|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png" group-title="BDSAJIB-CricHD", PTV Sports
-https://api.bongohub.pw/playlist/crichd.php?id=ptvpk
+https://api.bongohub.pw/playlist/crichd.php?id=ptvpk|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" group-title="BDSAJIB-CricHD", Premier Sports 1
-https://api.bongohub.pw/playlist/crichd.php?id=premieruk
+https://api.bongohub.pw/playlist/crichd.php?id=premieruk|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" group-title="BDSAJIB-CricHD", Premier Sports 2
-https://api.bongohub.pw/playlist/crichd.php?id=hdchnl2
+https://api.bongohub.pw/playlist/crichd.php?id=hdchnl2|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png" group-title="BDSAJIB-CricHD", Sky Sports Action
-https://api.bongohub.pw/playlist/crichd.php?id=skysact
+https://api.bongohub.pw/playlist/crichd.php?id=skysact|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png" group-title="BDSAJIB-CricHD", Sky Sports Arena
-https://api.bongohub.pw/playlist/crichd.php?id=skysare
+https://api.bongohub.pw/playlist/crichd.php?id=skysare|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png" group-title="BDSAJIB-CricHD", Sky Sports Cricket
-https://api.bongohub.pw/playlist/crichd.php?id=skyscric
+https://api.bongohub.pw/playlist/crichd.php?id=skyscric|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png" group-title="BDSAJIB-CricHD", Sky Sports F1
-https://api.bongohub.pw/playlist/crichd.php?id=skysfor1
+https://api.bongohub.pw/playlist/crichd.php?id=skysfor1|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png" group-title="BDSAJIB-CricHD", Sky Sports Football
-https://api.bongohub.pw/playlist/crichd.php?id=skysfott
+https://api.bongohub.pw/playlist/crichd.php?id=skysfott|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB1x3FHz/Sky-Sports-Golf.png" group-title="BDSAJIB-CricHD", Sky Sports Golf
-https://api.bongohub.pw/playlist/crichd.php?id=skysgol
+https://api.bongohub.pw/playlist/crichd.php?id=skysgol|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png" group-title="BDSAJIB-CricHD", Sky Sports Main Event
-https://api.bongohub.pw/playlist/crichd.php?id=skysme
+https://api.bongohub.pw/playlist/crichd.php?id=skysme|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png" group-title="BDSAJIB-CricHD", Sky Sports Mix
-https://api.bongohub.pw/playlist/crichd.php?id=skysmixx
+https://api.bongohub.pw/playlist/crichd.php?id=skysmixx|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htmSmN6n/Sky-Sports-News.png" group-title="BDSAJIB-CricHD", Sky Sports News
-https://api.bongohub.pw/playlist/crichd.php?id=skyspnews
+https://api.bongohub.pw/playlist/crichd.php?id=skyspnews|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png" group-title="BDSAJIB-CricHD", Sky Sports Premier League
-https://api.bongohub.pw/playlist/crichd.php?id=skysprem
+https://api.bongohub.pw/playlist/crichd.php?id=skysprem|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png" group-title="BDSAJIB-CricHD", Star Sports 1 HD
-https://api.bongohub.pw/playlist/crichd.php?id=star1in
+https://api.bongohub.pw/playlist/crichd.php?id=star1in|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png" group-title="BDSAJIB-CricHD", Star Sports 1 Hindi HD
-https://api.bongohub.pw/playlist/crichd.php?id=starhindi
+https://api.bongohub.pw/playlist/crichd.php?id=starhindi|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png" group-title="BDSAJIB-CricHD", Super Sport Cricket
-https://api.bongohub.pw/playlist/crichd.php?id=supercricket
+https://api.bongohub.pw/playlist/crichd.php?id=supercricket|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png" group-title="BDSAJIB-CricHD", SuperSport Action
-https://api.bongohub.pw/playlist/crichd.php?id=superactions
+https://api.bongohub.pw/playlist/crichd.php?id=superactions|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zgdQf8V/Super-Sport-Football.png" group-title="BDSAJIB-CricHD", SuperSport Football
-https://api.bongohub.pw/playlist/crichd.php?id=superfotball
+https://api.bongohub.pw/playlist/crichd.php?id=superfotball|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncgVSqDn/Super-Sport-Golf.png" group-title="BDSAJIB-CricHD", SuperSport Golf
-https://api.bongohub.pw/playlist/crichd.php?id=supergolf
+https://api.bongohub.pw/playlist/crichd.php?id=supergolf|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QzZ2gVg/Super-Sport-Grandstand.png" group-title="BDSAJIB-CricHD", SuperSport Grandstand
-https://api.bongohub.pw/playlist/crichd.php?id=supergrandstand
+https://api.bongohub.pw/playlist/crichd.php?id=supergrandstand|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR6cP7b8/Super-Sport-La-Liga.png" group-title="BDSAJIB-CricHD", SuperSport Laliga
-https://api.bongohub.pw/playlist/crichd.php?id=superlaliga
+https://api.bongohub.pw/playlist/crichd.php?id=superlaliga|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xw164Mk/Super-Sport-Maximo.png" group-title="BDSAJIB-CricHD", SuperSport Maximo
-https://api.bongohub.pw/playlist/crichd.php?id=supermeximo
+https://api.bongohub.pw/playlist/crichd.php?id=supermeximo|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzrBYvmq/Super-Sport-Premiere-League.png" group-title="BDSAJIB-CricHD", SuperSport Premier
-https://api.bongohub.pw/playlist/crichd.php?id=superpremier
+https://api.bongohub.pw/playlist/crichd.php?id=superpremier|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgznPNgS/Super-Sport-Rugby.png" group-title="BDSAJIB-CricHD", SuperSport Rugby
-https://api.bongohub.pw/playlist/crichd.php?id=supersrugby
+https://api.bongohub.pw/playlist/crichd.php?id=supersrugby|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YFDnDF6/Super-Sport-Tennis.png" group-title="BDSAJIB-CricHD", SuperSport Tennis
-https://api.bongohub.pw/playlist/crichd.php?id=supertennis
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmhq4s2n/Super-Sport-Variety-1.png" group-title="BDSAJIB-CricHD", SuperSport Variety 1
-https://api.bongohub.pw/playlist/crichd.php?id=hdchnl6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrJ1pX55/Super-Sport-Variety-2.png" group-title="BDSAJIB-CricHD", SuperSport Variety 2
-https://api.bongohub.pw/playlist/crichd.php?id=hdchnl7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdtJ8G4X/Super-Sport-Variety-3.png" group-title="BDSAJIB-CricHD", SuperSport Variety 3
-https://api.bongohub.pw/playlist/crichd.php?id=hdchnl8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png" group-title="BDSAJIB-CricHD", SuperSport Variety 4
-https://api.bongohub.pw/playlist/crichd.php?id=hdchnl9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png" group-title="BDSAJIB-CricHD", TEN Sports Pakistan
-https://api.bongohub.pw/playlist/crichd.php?id=tenspk
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRNmBsg7/WWE.png" group-title="BDSAJIB-CricHD", WWE Network
-https://api.bongohub.pw/playlist/crichd.php?id=wwe
+https://api.bongohub.pw/playlist/crichd.php?id=supertennis|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png" group-title="BDSAJIB-CricHD", Willow HD
-https://api.bongohub.pw/playlist/crichd.php?id=willowusa
+https://api.bongohub.pw/playlist/crichd.php?id=willowusa|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png" group-title="BDSAJIB-CricHD", Willow Xtra
-https://api.bongohub.pw/playlist/crichd.php?id=willowextra
+https://api.bongohub.pw/playlist/crichd.php?id=willowextra|User-Agent=bdsajib
