@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="BDSAJIB-Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png",Zee Cinema HD
-https://api.bongohub.pw/playlist/zee5.php?id=0-9-zeecinemahd
+https://api.bongohub.pw/playlist/zee5.php?id=0-9-zeecinemahd|User-Agent=bdsajib
 #EXTINF:0 tvg-id="0-9-zeecinemalu" group-title="BDSAJIB-Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x6581642453232.png",Zee Cinemalu HD
 https://api.bongohub.pw/playlist/zee5.php?id=0-9-zeecinemalu
 #EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="BDSAJIB-Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png",&Pictures HD
