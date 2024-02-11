@@ -1,38 +1,38 @@
-#EXTINF:-1 tvg-id="sony1000009246"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="TOXIC~LIV",SONY HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009246
-#EXTINF:-1 tvg-id="sony1000009248"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="TOXIC~LIV",SAB HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009248
-#EXTINF:-1 tvg-id="sony1000009273"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="TOXIC~LIV",SONY PAL
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009273
-#EXTINF:-1 tvg-id="sony1000009247"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="TOXIC~LIV",SONY MAX HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009247
-#EXTINF:-1 tvg-id="sony1000009249"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="TOXIC~LIV",SONY MAX
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009249
+#EXTINF:-1 tvg-id="sony1000009246"" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="TOXIC~LIV",SONY HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009246
+#EXTINF:-1 tvg-id="sony1000009248"" tvg-logo="https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2016/09/01/Sony%20SAB%20HD%20Logo-01.jpgg" group-title="TOXIC~LIV",SAB HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009248
+#EXTINF:-1 tvg-id="sony1000009273"" tvg-logo="https://pbs.twimg.com/profile_images/497440939388858368/73qSmbwD_400x400.png" group-title="TOXIC~LIV",SONY PAL
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009273
+#EXTINF:-1 tvg-id="sony1000009247"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="TOXIC~LIV",SONY MAX HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009247
+#EXTINF:-1 tvg-id="sony1000009249"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="TOXIC~LIV",SONY MAX
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009249
 #EXTINF:-1 tvg-id="sony1000009252"" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="TOXIC~LIV", BBC Earth
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009252
-#EXTINF:-1 tvg-id="sony1000009253"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="TOXIC~LIV",SONY WAH
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009253
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009252
+#EXTINF:-1 tvg-id="sony1000009253"" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/074ede35-9396-4470-a0cd-e350f5e351f3_180x180_SonyWah.jpg" group-title="TOXIC~LIV",SONY WAH
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009253
 #EXTINF:-1 tvg-id="sony1000044878"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="TOXIC~LIV",SONY MAX2
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000044878
-#EXTINF:-1 tvg-id="sony1000001971"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="TOXIC~LIV",SONY YAY
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000001971
-#EXTINF:-1 tvg-id="sony1000009281"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="TOXIC~LIV",SONY SIX HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009281.6
-#EXTINF:-1 tvg-id="sony1000009276"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="TOXIC~LIV",SONY TEN 1 HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009276
-#EXTINF:-1 tvg-id="sony1000009277"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="TOXIC~LIV",SONY TEN 2 HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009277
-#EXTINF:-1 tvg-id="https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009278"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="TOXIC~LIV",SONY TEN 3 HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009278
-#EXTINF: -1 tvg-id="sony1000119186"" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/sonySportsTen4_SD_Logo_CLR.png" group-title="TOXIC~LIV",SONY TEN 4 HD
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000119186
-#EXTINF:-1 tvg-id="sony1000009281"" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/sonySportsTen5_SD_Logo_CLR.png" group-title="TOXIC~LIV",SONY SIX
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009281
-#EXTINF:-1 tvg-id="sony1000009280"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="TOXIC~LIV",SONY TEN 1
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009280
-#EXTINF:-1 tvg-id="sony1000009279"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="TOXIC~LIV",SONY TEN 2
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009279
-#EXTINF:-1 tvg-id="sony1000009283"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="TOXIC~LIV",SONY TEN 3
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000009283
-#EXTINF: -1 tvg-id="sony1000119187"" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/sonySportsTen4_SD_Logo_CLR.png" group-title="TOXIC~LIV",SONY TEN 4
-https://bolt.toxic-gang.xyz/apiz/sony/index.php?id=1000119187
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000044878
+#EXTINF:-1 tvg-id="sony1000001971"" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" group-title="TOXIC~LIV",SONY YAY
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000001971
+#EXTINF:-1 tvg-id="sony1000009281"" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fsony_sixhd.jpg" group-title="TOXIC~LIV",SONY SIX HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009281.6
+#EXTINF:-1 tvg-id="sony1000009276"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest?cb=20190322143710" group-title="TOXIC~LIV",SONY TEN 1 HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009276
+#EXTINF:-1 tvg-id="sony1000009277"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest?cb=20190322144000" group-title="TOXIC~LIV",SONY TEN 2 HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009277
+#EXTINF:-1 tvg-id="https://api.bongohub.pw/playlist/sonyliv.php?id=1000009278"" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3mya9a1643398896.png" group-title="TOXIC~LIV",SONY TEN 3 HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009278
+#EXTINF: -1 tvg-id="sony1000119186"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest?cb=20221025090401" group-title="TOXIC~LIV",SONY TEN 4 HD
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000119186
+#EXTINF:-1 tvg-id="sony1000009281"" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mzhizo1643398789.png" group-title="TOXIC~LIV",SONY SIX
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009281
+#EXTINF:-1 tvg-id="sony1000009280"" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="TOXIC~LIV",SONY TEN 1
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009280
+#EXTINF:-1 tvg-id="sony1000009279"" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="TOXIC~LIV",SONY TEN 2
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009279
+#EXTINF:-1 tvg-id="sony1000009283"" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="TOXIC~LIV",SONY TEN 3
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009283
+#EXTINF: -1 tvg-id="sony1000119187"" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="TOXIC~LIV",SONY TEN 4
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000119187
