@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-logo="https://animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="BDSAJIB-Kidz", SONIC BANGLA FHD
+https://api.bongohub.pw/playlist/kidz.php?id=11193|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-logo="https://animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="BDSAJIB-Kidz", SONIC HINDI HINDI FHD
+https://api.bongohub.pw/playlist/kidz.php?id==11667|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="BDSAJIB-Kidz", CARTOON NETWORK HINDI FHD
+https://api.bongohub.pw/playlist/kidz.php?id=11633|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="Nick Junior" tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="BDSAJIB-Kidz", Nick Junior BDIP
+https://api.bongohub.pw/playlist/bioscope.php?id=nick-junior|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="BDSAJIB-Kidz", Nickelodeon BDIP
+https://api.bongohub.pw/playlist/bioscope.php?id=nickelodeon|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="BDSAJIB-Kidz", POGO-HINDI FHD
+https://api.bongohub.pw/playlist/kidz.php?id=11666|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="BDSAJIB-Kidz", DISNEY JUNIOR HINDI FHD
+https://api.bongohub.pw/playlist/kidz.php?id=11640|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="BDSAJIB-Kidz", Cartoon Network HD BDIP
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707649493:KeyName=prod_linear:Signature=Dp76H_XPMILTmDB99TzlhxPj9w9efBRRMg2CBMbsuybgPA_Mk0sG7kNf7Q0lsQZhdzqdIgcW6x0vV_oEbY38AA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
+
+
